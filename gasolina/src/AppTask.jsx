@@ -7,6 +7,7 @@ export default function AppTask({
   gasolinaPreco,
   onAlcoolChange,
   onGasolinaChange,
+  onCalcular
 }) {
   return (
     <div className="container">
